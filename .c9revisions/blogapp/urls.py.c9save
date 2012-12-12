@@ -1,0 +1,4 @@
+{"ts":1355294871709,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1355294960984,"patch":[[{"diffs":[[1,"from django.conf.urls import patterns, include, url\n\n# Uncomment the next two lines to enable the admin:\n# from django.contrib import admin\n# admin.autodiscover()\n\nurlpatterns = patterns('',\n    url(r'^$', views.index, name='index')\n)"]],"start1":0,"start2":0,"length1":0,"length2":234}]],"length":234,"saved":false}
+{"ts":1355294974666,"patch":[[{"diffs":[[0,"over()\n\n"],[1,"from blogapp import views\n\n"],[0,"urlpatte"]],"start1":156,"start2":156,"length1":16,"length2":43}]],"length":261,"saved":false}
+{"ts":1355294996401,"patch":[[{"diffs":[[0," url(r'^"],[1,"hello_world/"],[0,"$', view"]],"start1":221,"start2":221,"length1":16,"length2":28}]],"length":273,"saved":false}
